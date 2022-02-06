@@ -12,7 +12,7 @@
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-AI/LEGEND-MUSIC
+$ git clone https://github.com/subham2828ag/LEGEND-MUSIC
 $ cd LEGEND-MUSIC
 $ cp sample.env .env
 < edit .env with your own values >
